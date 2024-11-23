@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\ADOWpfApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC52A17A-04D6-437E-B8AF-17468AB3DD4F}|ADOWpfApp\\ADOWpfApp.csproj|d:\\c#\\adowpfapp\\adowpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC52A17A-04D6-437E-B8AF-17468AB3DD4F}|ADOWpfApp\\ADOWpfApp.csproj|solutionrelative:adowpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC52A17A-04D6-437E-B8AF-17468AB3DD4F}|ADOWpfApp\\ADOWpfApp.csproj|D:\\C#\\ADOWpfApp\\adowpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AC52A17A-04D6-437E-B8AF-17468AB3DD4F}|ADOWpfApp\\ADOWpfApp.csproj|solutionrelative:adowpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{93c5e7ad-af06-49e6-a756-b8f3eaca790d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\C#\\ADOWpfApp\\ADOWpfApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ADOWpfApp\\MainWindow.xaml",
+              "ToolTip": "D:\\C#\\ADOWpfApp\\ADOWpfApp\\MainWindow.xaml",
+              "RelativeToolTip": "ADOWpfApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-23T10:27:54.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\C#\\ADOWpfApp\\ADOWpfApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ADOWpfApp\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\C#\\ADOWpfApp\\ADOWpfApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ADOWpfApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T10:27:53.871Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

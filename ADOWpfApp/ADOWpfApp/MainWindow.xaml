@@ -1,0 +1,20 @@
+﻿<Window x:Class="ADOWpfApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ADOWpfApp"
+        mc:Ignorable="d"
+          Title="Database Connections" Height="400" Width="600">
+    <Grid Margin="10">
+        <StackPanel>
+            <TextBlock Text="Статус MSSQLLocalDB:" FontWeight="Bold" Margin="5"/>
+            <TextBox x:Name="SqlStatusTextBox" IsReadOnly="True" Margin="5" Height="30"/>
+
+            <TextBlock Text="Статус MS Access:" FontWeight="Bold" Margin="5"/>
+            <TextBox x:Name="AccessStatusTextBox" IsReadOnly="True" Margin="5" Height="30"/>
+
+            <Button Content="Проверить подключения" Click="CheckConnections_Click" Margin="5" Width="200"/>
+        </StackPanel>
+    </Grid>
+</Window>
